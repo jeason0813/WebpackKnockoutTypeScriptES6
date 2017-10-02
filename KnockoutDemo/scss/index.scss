@@ -1,0 +1,10 @@
+﻿@import './hello/hello.scss';
+
+
+$body-background: cyan;
+$standard-margin-left: 15px;
+
+body {
+    background-color: $body-background;
+    font-size:12px;
+}
